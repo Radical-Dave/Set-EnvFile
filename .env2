@@ -1,0 +1,5 @@
+envName=test
+subscription=XX
+location=eastus
+dockerRegistry=scr.sitecore.com/sxp/
+prefix=smoke

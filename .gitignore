@@ -1,1 +1,3 @@
 # User-specific files
+*.env
+*.env.user
